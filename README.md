@@ -5,7 +5,7 @@ js-text-overflow
 Install
 ---------------------
 ```
-npm i --save git+http://gitlab.airtake.me:10080/DC3/WebAPIUtils.git
+npm i --save git+https://github.com/xiaoDC/js-text-overflow.git
 ```
 
 
