@@ -129,8 +129,8 @@ index = (win, doc) ->
     el.appendChild line
     return
 
-  win.clamp = clamp
-  return
+  # win.clamp = clamp
+  return clamp
 
 if self?
   module.exports = index
